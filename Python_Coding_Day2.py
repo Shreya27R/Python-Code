@@ -26,4 +26,4 @@ for i in range(0,n):
         result = first + second
         first = second
         second = result
-    print(result)
+    print("The Fibonacci series of a number is:{}".format(result))
